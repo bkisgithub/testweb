@@ -32,4 +32,4 @@ echo "<table border = '1'>";
 
  sqlsrv_free_stmt($getResults);
 ?>
-?>
+
